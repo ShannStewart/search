@@ -1,0 +1,8 @@
+3, 5, 6, 8, 11, 12, 14, 15, 17, 18
+
+The binary search will start between 3 and 18, that's about 11. it will see that 8 is before it so it will search between 3 and 11, so 7. Then between 7 and 11, 9. 
+i think it finds 8 next. so four searches. 
+
+3, 5, 6, 8, 11, 12, 14, 15, 17, 18
+
+first search will bring up 11. Next search, between 11 and 18 will bring up eiter 14 or 15. I think 16 will be the next result so it will take three searches. 
